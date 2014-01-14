@@ -25,12 +25,12 @@ Have fun!
 
 Test output:
 
-Run options: --seed 12337
+Run options: --seed 32703
 
 # Running tests:
 
 ....
 
-Finished tests in 5.950338s, 0.6722 tests/s, 1.6806 assertions/s.
+Finished tests in 1.613040s, 2.4798 tests/s, 6.1995 assertions/s.
 
 4 tests, 10 assertions, 0 failures, 0 errors, 0 skips
